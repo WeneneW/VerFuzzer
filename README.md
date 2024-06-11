@@ -85,3 +85,5 @@ The directory structure of the document is as follows. After adding the API, you
 | error18 | Vivado Synthesis Crash Due to HOptGenControl::areaInSource Errors           | Vivado   |
 | error19 | Vivado Synthesis Crash Due to DFLink::findIndexForPortName Errors           | Vivado   |
 | error20 | Bit-Width Definition Inconsistencies Leading to Different Outputs           | Vivado   |
+
+We are grateful to the staff of these tools for their assistance in discovering and confirming vulnerabilities.
